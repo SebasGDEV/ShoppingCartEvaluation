@@ -5,6 +5,7 @@ Funciones utilizadas para simular un carrito de compras.
 ### Pre-requisitos 📋
 
 Visual Studio
+.NET 5.0
 Visual Studio Code
 Conexión a internet
 
