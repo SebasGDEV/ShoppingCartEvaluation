@@ -1,0 +1,16 @@
+C:\Users\SGC\source\repos\ShoppingCartTested\bin\Debug\net5.0\ShoppingCartTested.exe
+C:\Users\SGC\source\repos\ShoppingCartTested\bin\Debug\net5.0\ShoppingCartTested.deps.json
+C:\Users\SGC\source\repos\ShoppingCartTested\bin\Debug\net5.0\ShoppingCartTested.runtimeconfig.json
+C:\Users\SGC\source\repos\ShoppingCartTested\bin\Debug\net5.0\ShoppingCartTested.runtimeconfig.dev.json
+C:\Users\SGC\source\repos\ShoppingCartTested\bin\Debug\net5.0\ShoppingCartTested.dll
+C:\Users\SGC\source\repos\ShoppingCartTested\bin\Debug\net5.0\ref\ShoppingCartTested.dll
+C:\Users\SGC\source\repos\ShoppingCartTested\bin\Debug\net5.0\ShoppingCartTested.pdb
+C:\Users\SGC\source\repos\ShoppingCartTested\obj\Debug\net5.0\ShoppingCartTested.csprojAssemblyReference.cache
+C:\Users\SGC\source\repos\ShoppingCartTested\obj\Debug\net5.0\ShoppingCartTested.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SGC\source\repos\ShoppingCartTested\obj\Debug\net5.0\ShoppingCartTested.AssemblyInfoInputs.cache
+C:\Users\SGC\source\repos\ShoppingCartTested\obj\Debug\net5.0\ShoppingCartTested.AssemblyInfo.cs
+C:\Users\SGC\source\repos\ShoppingCartTested\obj\Debug\net5.0\ShoppingCartTested.csproj.CoreCompileInputs.cache
+C:\Users\SGC\source\repos\ShoppingCartTested\obj\Debug\net5.0\ShoppingCartTested.dll
+C:\Users\SGC\source\repos\ShoppingCartTested\obj\Debug\net5.0\ref\ShoppingCartTested.dll
+C:\Users\SGC\source\repos\ShoppingCartTested\obj\Debug\net5.0\ShoppingCartTested.pdb
+C:\Users\SGC\source\repos\ShoppingCartTested\obj\Debug\net5.0\ShoppingCartTested.genruntimeconfig.cache
